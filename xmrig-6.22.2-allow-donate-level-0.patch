@@ -1,0 +1,12 @@
+diff -up xmrig-6.22.2/src/donate.h.omv~ xmrig-6.22.2/src/donate.h
+--- xmrig-6.22.2/src/donate.h.omv~	2025-05-22 18:54:30.055077039 +0200
++++ xmrig-6.22.2/src/donate.h	2025-05-22 18:55:11.217859124 +0200
+@@ -38,7 +38,7 @@
+  * XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
+  */
+ constexpr const int kDefaultDonateLevel = 1;
+-constexpr const int kMinimumDonateLevel = 1;
++constexpr const int kMinimumDonateLevel = 0;
+ 
+ 
+ #endif // XMRIG_DONATE_H
