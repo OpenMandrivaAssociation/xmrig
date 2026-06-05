@@ -1,6 +1,6 @@
 Name:		xmrig
 Version:	6.22.2
-Release:	1
+Release:	2
 Source0:	https://github.com/xmrig/xmrig/archive/refs/tags/v%{version}.tar.gz
 Summary:	Crypto currency miner supporting Monero
 URL:		https://github.com/xmrig/xmrig
